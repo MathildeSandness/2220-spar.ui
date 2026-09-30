@@ -1,0 +1,24 @@
+[
+  {
+    "list_id": "LIST-10001",
+    "items": [
+      { "name": "Milk 1L", "requested": 3 },
+      { "name": "Bread whole grain", "requested": 2 }
+    ]
+  },
+  {
+    "list_id": "LIST-10002",
+    "items": [
+      { "name": "Eggs 12-pack", "requested": 1 },
+      { "name": "Bananas", "requested": 6 }
+    ]
+  },
+  {
+    "list_id": "LIST-10003",
+    "items": [
+      { "name": "Tomatoes", "requested": 4 }
+    ]
+  }
+]
+
+
